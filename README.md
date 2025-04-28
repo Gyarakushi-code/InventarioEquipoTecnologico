@@ -1,0 +1,2 @@
+# InventarioEquipoTecnologico
+Inventario proyecto Leo
